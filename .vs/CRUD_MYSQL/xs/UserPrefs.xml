@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{F4A94738-E4FB-4128-8BCD-7CA8DF1DFC08}|Default">
+  <MonoDevelop.Ide.ItemProperties.CRUD_220__MYSQL PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CRUD_MYSQL" expanded="True">
+            <Node name="CRUD _MYSQL" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
