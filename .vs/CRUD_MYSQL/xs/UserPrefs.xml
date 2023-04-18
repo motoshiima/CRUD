@@ -8,7 +8,7 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="CRUD_MYSQL" expanded="True">
+          <Node name="CRUD_MYSQL" expanded="True" selected="True">
             <Node name="CRUD _MYSQL" expanded="True" />
           </Node>
         </State>
